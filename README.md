@@ -10,16 +10,16 @@ Email: adi.r@northeastern.edu
 
 Preferred Name: Raji
 
-#About/Overview
+# About/Overview
 Blogs API Application is a backend system for a blogs app. This application allows users to create profiles, create posts and add them into categories, manage comments on posts etc.
-#List of Features
+# List of Features
 Users can be created admin/ normal users
 Users can sign up/ login to the application
 Users can create new posts and perform CRUD operations on it
 Users can manage comments on posts
 Authentication is done using JWT
 All exceptions are handled elegantly using custom GlobalExceptionHandler
-#How to Run
+# How to Run
 To Run Jar File: java -jar jarFileName.jar
 
 
